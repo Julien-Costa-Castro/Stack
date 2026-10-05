@@ -1,7 +1,7 @@
 # 🥞 Stack — Gestionnaire de Presse-Papiers & Capture Défilante pour macOS
 
 <p align="center">
-  <img src="Resources/AppIcon.icns" width="128" height="128" alt="Stack Icon" />
+  <img src="Resources/AppIcon.png" width="128" height="128" alt="Stack Icon" />
 </p>
 
 <p align="center">
